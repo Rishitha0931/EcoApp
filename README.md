@@ -175,18 +175,11 @@ The project was developed following a structured software development approach.
 8. Continuous Improvements
 
 ---
-
-# 📸 Application Screenshots
-
-Explore some of the key screens of **EcoApp**, showcasing its intuitive user interface, role-based functionality, gamified learning experience, and environmental engagement features.
-
----
 # 📸 Application Screenshots
 
 EcoApp offers a clean, intuitive, and engaging user experience designed for students, teachers, and administrators. Below are some of the key screens showcasing the application's features and workflow.
 
 ---
-# 📸 Application Screenshots
 
 ## 🌿 Splash Screen
 
