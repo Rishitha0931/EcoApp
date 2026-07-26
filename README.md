@@ -175,13 +175,14 @@ The project was developed following a structured software development approach.
 8. Continuous Improvements
 
 ---
-# 📸 Application Screenshots
+
+#  Application Screenshots
 
 EcoApp offers a clean, intuitive, and engaging user experience designed for students, teachers, and administrators. Below are some of the key screens showcasing the application's features and workflow.
 
 ---
 
-## 🌿 Splash Screen
+##  Splash Screen
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/aaebdd33-b5c5-4e37-a452-b45cb2b60b52" width="220" alt="Splash Screen"/>
@@ -193,7 +194,7 @@ EcoApp offers a clean, intuitive, and engaging user experience designed for stud
 
 ---
 
-## 📱 EcoApp Interface
+##  EcoApp Interface
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/5c7d8e3e-7ac0-46e0-8997-c08825ac30e5" width="170" alt="Login Screen"/>
@@ -237,35 +238,17 @@ EcoApp offers a clean, intuitive, and engaging user experience designed for stud
 
 ---
 
-### ✨ User Experience Highlights
+###  User Experience Highlights
 
-- 🌱 Clean and nature-inspired user interface
-- 🎮 Gamified learning with eco challenges and rewards
-- 📚 Interactive lessons and quizzes
-- 🏆 Points, badges, streaks, and leaderboards
-- 👩‍🏫 Dedicated dashboards for Students, Teachers, and Administrators
-- 🌍 Community-driven environmental engagement
+-  Clean and nature-inspired user interface
+-  Gamified learning with eco challenges and rewards
+-  Interactive lessons and quizzes
+-  Points, badges, streaks, and leaderboards
+-  Dedicated dashboards for Students, Teachers, and Administrators
+-  Community-driven environmental engagement
 
 ---
 
-# 🌍 Impact
-
-EcoApp creates positive educational and environmental impact by:
-
-- 🌱 Encouraging sustainable habits
-- 🌍 Promoting environmental responsibility
-- 📚 Increasing student engagement
-- 🤝 Building teamwork and collaboration
-- 💻 Supporting digital education
-- 🏆 Improving participation through rewards
-- ♻️ Creating community-wide environmental awareness
-  --
-  
-#  Impact
-
-EcoApp creates p
-
-us etese  urls and do
 #  Impact
 
 EcoApp creates positive educational and environmental impact by:
@@ -277,8 +260,8 @@ EcoApp creates positive educational and environmental impact by:
 -  Supporting digital education
 -  Improving participation through rewards
 -  Creating community-wide environmental awareness
-
----
+ 
+  ---
 
 #  Feasibility
 
@@ -394,4 +377,4 @@ Upcoming improvements include AI-powered recommendations, enhanced analytics, ad
 
 ---
 
-⭐ **If you found this project interesting or helpful, consider giving it a Star on GitHub!**
+ **If you found this project interesting or helpful, consider giving it a ⭐ on GitHub!**
