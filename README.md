@@ -197,7 +197,7 @@ EcoApp offers a clean, intuitive, and engaging user experience designed for stud
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/5c7d8e3e-7ac0-46e0-8997-c08825ac30e5" width="180" alt="Login Screen"/>
-  <img src="https://github.com/user-attachments/assets/61886382-5991-479f-9326-cb17a78407b3" width="180" alt="Home Screen"/>
+ <img width="540" height="980" alt="home_screen" src="https://github.com/user-attachments/assets/4754a919-090b-4f02-b2ae-408fd38c8bf1" />
   <img src="https://github.com/user-attachments/assets/2d47d3ab-b8f6-4365-b365-ada93b34b2f3" width="180" alt="Lessons Screen"/>
 </p>
 
