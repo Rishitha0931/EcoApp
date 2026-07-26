@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "eco-app-82f71",
+    "localservices": "localservicesapp-9cc3e"
+  },
+  "targets": {},
+  "etags": {}
+}
