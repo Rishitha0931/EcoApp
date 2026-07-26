@@ -383,11 +383,16 @@ https://eco-app-82f71.web.app
 
 ---
 
-#  Project Status
+# 🚀 Project Status
 
- **Actively maintained and continuously improved.**
+🟢 **Status:** Active Development
 
-Upcoming improvements include AI-powered recommendations, enhanced analytics, advanced gamification, and new eco-challenges.
+Future updates include:
+
+- AI-powered recommendations
+- Carbon footprint tracking
+- Advanced analytics
+- New eco challenges.
 
 ---
 
