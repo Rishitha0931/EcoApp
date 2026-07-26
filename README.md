@@ -184,7 +184,7 @@ EcoApp offers a clean, intuitive, and engaging user experience designed for stud
 ## 🌿 Splash Screen
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/aaebdd33-b5c5-4e37-a452-b45cb2b60b52" width="230" alt="Splash Screen"/>
+  <img src="https://github.com/user-attachments/assets/aaebdd33-b5c5-4e37-a452-b45cb2b60b52" width="220" alt="Splash Screen"/>
 </p>
 
 <p align="center">
@@ -196,42 +196,42 @@ EcoApp offers a clean, intuitive, and engaging user experience designed for stud
 ## 📱 EcoApp Interface
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/5c7d8e3e-7ac0-46e0-8997-c08825ac30e5" width="180" alt="Login Screen"/>
- <img width="540" height="980" alt="home_screen" src="https://github.com/user-attachments/assets/4754a919-090b-4f02-b2ae-408fd38c8bf1" />
-  <img src="https://github.com/user-attachments/assets/2d47d3ab-b8f6-4365-b365-ada93b34b2f3" width="180" alt="Lessons Screen"/>
+  <img src="https://github.com/user-attachments/assets/5c7d8e3e-7ac0-46e0-8997-c08825ac30e5" width="170" alt="Login Screen"/>
+  <img src="https://github.com/user-attachments/assets/4754a919-090b-4f02-b2ae-408fd38c8bf1" width="170" alt="Home Screen"/>
+  <img src="https://github.com/user-attachments/assets/2d47d3ab-b8f6-4365-b365-ada93b34b2f3" width="170" alt="Lessons Screen"/>
 </p>
 
 <p align="center">
-<b>Login</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<b>Home</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<b>Login</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<b>Home</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <b>Lessons</b>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/5a7027fe-c3b8-44e5-9fbb-7e9b46063dd5" width="180" alt="Today's Tasks"/>
-  <img src="https://github.com/user-attachments/assets/c425530b-f2cd-4b6e-8ac2-ac558ca272f0" width="180" alt="Sorting Game"/>
-  <img src="https://github.com/user-attachments/assets/78bd54d9-4aee-49be-b9be-f7234f66f64f" width="180" alt="Community Feed"/>
+  <img src="https://github.com/user-attachments/assets/5a7027fe-c3b8-44e5-9fbb-7e9b46063dd5" width="170" alt="Today's Tasks"/>
+  <img src="https://github.com/user-attachments/assets/c425530b-f2cd-4b6e-8ac2-ac558ca272f0" width="170" alt="Sorting Game"/>
+  <img src="https://github.com/user-attachments/assets/78bd54d9-4aee-49be-b9be-f7234f66f64f" width="170" alt="Community Feed"/>
 </p>
 
 <p align="center">
-<b>Today's Tasks</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<b>Sorting Game</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<b>Today's Tasks</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<b>Sorting Game</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <b>Community Feed</b>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/807c7024-9ffc-486c-a88f-bbb26aba9e9c" width="180" alt="Profile"/>
-  <img src="https://github.com/user-attachments/assets/a267d3cb-fa1e-421d-8150-f3560677289d" width="180" alt="Upcoming Events"/>
-  <img src="https://github.com/user-attachments/assets/13a16827-f832-46ee-8c30-2276623ebd21" width="180" alt="Events Calendar"/>
+  <img src="https://github.com/user-attachments/assets/807c7024-9ffc-486c-a88f-bbb26aba9e9c" width="170" alt="Profile"/>
+  <img src="https://github.com/user-attachments/assets/a267d3cb-fa1e-421d-8150-f3560677289d" width="170" alt="Upcoming Events"/>
+  <img src="https://github.com/user-attachments/assets/13a16827-f832-46ee-8c30-2276623ebd21" width="170" alt="Events Calendar"/>
 </p>
 
 <p align="center">
 <b>Profile</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<b>Upcoming Events</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<b>Upcoming Events</b>&nbsp;&nbsp;&nbsp;&nbsp;
 <b>Events Calendar</b>
 </p>
 
@@ -239,12 +239,26 @@ EcoApp offers a clean, intuitive, and engaging user experience designed for stud
 
 ### ✨ User Experience Highlights
 
-- 🌱 Clean and nature-inspired UI
-- 🎮 Gamified eco-learning experience
+- 🌱 Clean and nature-inspired user interface
+- 🎮 Gamified learning with eco challenges and rewards
 - 📚 Interactive lessons and quizzes
 - 🏆 Points, badges, streaks, and leaderboards
-- 👩‍🏫 Separate dashboards for Students, Teachers, and Admins
+- 👩‍🏫 Dedicated dashboards for Students, Teachers, and Administrators
 - 🌍 Community-driven environmental engagement
+
+---
+
+# 🌍 Impact
+
+EcoApp creates positive educational and environmental impact by:
+
+- 🌱 Encouraging sustainable habits
+- 🌍 Promoting environmental responsibility
+- 📚 Increasing student engagement
+- 🤝 Building teamwork and collaboration
+- 💻 Supporting digital education
+- 🏆 Improving participation through rewards
+- ♻️ Creating community-wide environmental awareness
   --
   
 #  Impact
