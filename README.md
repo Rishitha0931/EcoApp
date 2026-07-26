@@ -22,12 +22,9 @@ Built as a **Hackathon Project**, EcoApp encourages students to develop eco-frie
 <p align="center">
   <img src="https://img.shields.io/badge/Role--Based-Student%20%7C%20Teacher%20%7C%20Admin-2E7D32?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Gamification-Points%20%7C%20Badges%20%7C%20Streaks-43A047?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Platform-Web%20%7C%20Android-388E3C?style=for-the-badge"/>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Platform-Web%20%7C%20Android-388E3C?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Hackathon-Project-4CAF50?style=for-the-badge"/>
-</p>
 ---
 
 #  About The Project
