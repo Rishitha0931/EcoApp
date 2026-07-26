@@ -383,8 +383,6 @@ The project inspired me to continue improving EcoApp with new features, better a
 
 #  Live Demo
 
-## 🌐 Live Demo
-
 https://eco-app-82f71.web.app
 
 ---
