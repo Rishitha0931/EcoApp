@@ -16,7 +16,7 @@ Built as a **Hackathon Project**, EcoApp encourages students to develop eco-frie
 <p align="center">
   <img src="https://img.shields.io/badge/Flutter-Framework-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
   <img src="https://img.shields.io/badge/Dart-Language-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-Backend-FFCA28?style=for-the-badge&logo=firebase&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-Backend-039BE5?style=for-the-badge&logo=firebase&logoColor=white"/>
 </p>
 
 <p align="center">
