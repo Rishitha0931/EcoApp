@@ -11,20 +11,23 @@ Built as a **Hackathon Project**, EcoApp encourages students to develop eco-frie
 
 <p align="center">
 
- **Learn** •  **Play** •  **Earn Rewards** •  **Protect the Planet**
-
 </p>
 
 <p align="center">
-
-![Flutter](https://img.shields.io/badge/Flutter-3.x-blue?logo=flutter)
-![Firebase](https://img.shields.io/badge/Firebase-Backend-orange?logo=firebase)
-![Dart](https://img.shields.io/badge/Dart-Programming-blue?logo=dart)
-![Platform](https://img.shields.io/badge/Platform-Web%20%7C%20Android-green)
-![Status](https://img.shields.io/badge/Status-Active-success)
-
+  <img src="https://img.shields.io/badge/Flutter-Framework-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dart-Language-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-Backend-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Role--Based-Student%20%7C%20Teacher%20%7C%20Admin-2E7D32?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Gamification-Points%20%7C%20Badges%20%7C%20Streaks-43A047?style=for-the-badge"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Platform-Web%20%7C%20Android-388E3C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Hackathon-Project-4CAF50?style=for-the-badge"/>
+</p>
 ---
 
 #  About The Project
