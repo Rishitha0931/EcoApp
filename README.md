@@ -188,54 +188,70 @@ EcoApp offers a clean, intuitive, and engaging user experience designed for stud
 ---
 # 📸 Application Screenshots
 
-Explore EcoApp's clean, gamified, and user-friendly interface designed to inspire environmental learning and community engagement.
-
-<br>
+## 🌿 Splash Screen
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/aaebdd33-b5c5-4e37-a452-b45cb2b60b52" height="360" alt="Splash"/>
-  <img src="https://github.com/user-attachments/assets/5c7d8e3e-7ac0-46e0-8997-c08825ac30e5" height="360" alt="Login"/>
-  <img src="https://github.com/user-attachments/assets/61886382-5991-479f-9326-cb17a78407b3" height="360" alt="Home"/>
-  <img src="https://github.com/user-attachments/assets/2d47d3ab-b8f6-4365-b365-ada93b34b2f3" height="360" alt="Lessons"/>
-  <img src="https://github.com/user-attachments/assets/5a7027fe-c3b8-44e5-9fbb-7e9b46063dd5" height="360" alt="Tasks"/>
+  <img src="https://github.com/user-attachments/assets/aaebdd33-b5c5-4e37-a452-b45cb2b60b52" width="230" alt="Splash Screen"/>
 </p>
 
 <p align="center">
-<b>Splash</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<b>Login</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<b>Home</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<b>Lessons</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<b>Tasks</b>
+<b>Splash Screen</b>
 </p>
 
-<br>
+---
+
+## 📱 EcoApp Interface
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/78bd54d9-4aee-49be-b9be-f7234f66f64f" height="360" alt="Community"/>
-  <img src="https://github.com/user-attachments/assets/a267d3cb-fa1e-421d-8150-f3560677289d" height="360" alt="Events"/>
-  <img src="https://github.com/user-attachments/assets/13a16827-f832-46ee-8c30-2276623ebd21" height="360" alt="Calendar"/>
-  <img src="https://github.com/user-attachments/assets/807c7024-9ffc-486c-a88f-bbb26aba9e9c" height="360" alt="Profile"/>
-  <img src="https://github.com/user-attachments/assets/c425530b-f2cd-4b6e-8ac2-ac558ca272f0" height="360" alt="Sorting Game"/>
+  <img src="https://github.com/user-attachments/assets/5c7d8e3e-7ac0-46e0-8997-c08825ac30e5" width="180" alt="Login Screen"/>
+  <img src="https://github.com/user-attachments/assets/61886382-5991-479f-9326-cb17a78407b3" width="180" alt="Home Screen"/>
+  <img src="https://github.com/user-attachments/assets/2d47d3ab-b8f6-4365-b365-ada93b34b2f3" width="180" alt="Lessons Screen"/>
 </p>
 
 <p align="center">
-<b>Community</b>&nbsp;&nbsp;&nbsp;
-<b>Events</b>&nbsp;&nbsp;&nbsp;
-<b>Calendar</b>&nbsp;&nbsp;&nbsp;
-<b>Profile</b>&nbsp;&nbsp;&nbsp;
-<b>Game</b>
+<b>Login</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<b>Home</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<b>Lessons</b>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/5a7027fe-c3b8-44e5-9fbb-7e9b46063dd5" width="180" alt="Today's Tasks"/>
+  <img src="https://github.com/user-attachments/assets/c425530b-f2cd-4b6e-8ac2-ac558ca272f0" width="180" alt="Sorting Game"/>
+  <img src="https://github.com/user-attachments/assets/78bd54d9-4aee-49be-b9be-f7234f66f64f" width="180" alt="Community Feed"/>
+</p>
+
+<p align="center">
+<b>Today's Tasks</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<b>Sorting Game</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<b>Community Feed</b>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/807c7024-9ffc-486c-a88f-bbb26aba9e9c" width="180" alt="Profile"/>
+  <img src="https://github.com/user-attachments/assets/a267d3cb-fa1e-421d-8150-f3560677289d" width="180" alt="Upcoming Events"/>
+  <img src="https://github.com/user-attachments/assets/13a16827-f832-46ee-8c30-2276623ebd21" width="180" alt="Events Calendar"/>
+</p>
+
+<p align="center">
+<b>Profile</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<b>Upcoming Events</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<b>Events Calendar</b>
 </p>
 
 ---
 
 ### ✨ User Experience Highlights
 
-- 🌱 Nature-inspired and intuitive interface
+- 🌱 Clean and nature-inspired UI
 - 🎮 Gamified eco-learning experience
 - 📚 Interactive lessons and quizzes
-- 🏆 Rewards, badges, streaks, and leaderboards
+- 🏆 Points, badges, streaks, and leaderboards
+- 👩‍🏫 Separate dashboards for Students, Teachers, and Admins
 - 🌍 Community-driven environmental engagement
-- 👩‍🏫 Dedicated dashboards for Students, Teachers, and Admins
   --
   
 #  Impact
