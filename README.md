@@ -385,9 +385,13 @@ The project inspired me to continue improving EcoApp with new features, better a
 
 #  Live Demo
 
-**Web Application**
+<h2 align="center">🌐 Live Demo</h2>
 
-https://eco-app-82f71.web.app
+<p align="center">
+<a href="https://eco-app-82f71.web.app">
+<img src="https://img.shields.io/badge/🚀%20Launch%20EcoApp-Visit%20Website-success?style=for-the-badge">
+</a>
+</p>
 
 ---
 
