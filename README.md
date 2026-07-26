@@ -11,10 +11,6 @@ EcoApp is a **Flutter + Firebase** powered gamified environmental learning platf
 Developed as a **Hackathon Project**, EcoApp encourages students to develop eco-friendly habits while enabling teachers and administrators to monitor participation and community impact through a centralized platform.
 
 <p align="center">
-
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/Flutter-Framework-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
   <img src="https://img.shields.io/badge/Dart-Language-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
   <img src="https://img.shields.io/badge/Firebase-Backend-039BE5?style=for-the-badge&logo=firebase&logoColor=white"/>
