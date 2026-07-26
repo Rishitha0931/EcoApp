@@ -1,5 +1,8 @@
-#  EcoApp
-> **Making Environmental Learning Fun and Impactful Through Technology**
+<h1 align="center">🌿 EcoApp</h1>
+
+<p align="center">
+<b>Making Environmental Learning Fun and Impactful Through Technology</b>
+</p>
 
 <p align="center">
   <img width="1536" height="1024" alt="main_image" src="https://github.com/user-attachments/assets/59fdc39d-f848-4e2d-b3de-55f6634eca72" />
