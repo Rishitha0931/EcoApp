@@ -13,7 +13,7 @@ Built as a **Hackathon Project**, EcoApp encourages students to develop eco-frie
 
 <p align="center">
 
-🌱 **Learn** • 🎮 **Play** • 🏆 **Earn Rewards** • 🌍 **Protect the Planet**
+ **Learn** •  **Play** •  **Earn Rewards** •  **Protect the Planet**
 
 </p>
 
