@@ -172,7 +172,7 @@ Manage Users → Monitor Activities → Verify Platform Data → Track Community
 
 ---
 
-# 🏗 Development Methodology
+#  Development Methodology
 
 The project was developed following a structured software development approach.
 
