@@ -181,57 +181,90 @@ The project was developed following a structured software development approach.
 Explore some of the key screens of **EcoApp**, showcasing its intuitive user interface, role-based functionality, gamified learning experience, and environmental engagement features.
 
 ---
+# 📸 Application Screenshots
+
+EcoApp offers a clean, intuitive, and engaging user experience designed for students, teachers, and administrators. Below are some of the key screens showcasing the application's features and workflow.
+
+---
 
 ## 🌿 Authentication
 
-| Splash Screen | Login Screen |
-|---------------|--------------|
-| ![Splash Screen](<img width="1054" height="1492" alt="splash_screen" src="https://github.com/user-attachments/assets/aaebdd33-b5c5-4e37-a452-b45cb2b60b52" />
-) | ![Login Screen](<img width="540" height="846" alt="login_screen" src="https://github.com/user-attachments/assets/5c7d8e3e-7ac0-46e0-8997-c08825ac30e5" />
-) |
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/aaebdd33-b5c5-4e37-a452-b45cb2b60b52" width="220" alt="Splash Screen"/>
+  <img src="https://github.com/user-attachments/assets/5c7d8e3e-7ac0-46e0-8997-c08825ac30e5" width="220" alt="Login Screen"/>
+</p>
+
+<p align="center">
+<b>Splash Screen</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<b>Login Screen</b>
+</p>
 
 ---
 
 ## 🏠 Dashboard & Learning
 
-| Home Screen | Lessons |
-|----------------|---------|
-| ![Home Screen](<img width="540" height="846" alt="login_screen" src="https://github.com/user-attachments/assets/61886382-5991-479f-9326-cb17a78407b3" />
-) | ![Lessons](<img width="540" height="846" alt="login_screen" src="https://github.com/user-attachments/assets/22af73b7-95df-4c75-b9ff-39fcc0514d3f" />
-) |
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/61886382-5991-479f-9326-cb17a78407b3" width="220" alt="Home Screen"/>
+  <img src="https://github.com/user-attachments/assets/22af73b7-95df-4c75-b9ff-39fcc0514d3f" width="220" alt="Lessons"/>
+</p>
+
+<p align="center">
+<b>Home Dashboard</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<b>Interactive Lessons</b>
+</p>
 
 ---
 
-## 🎯 Daily Activities
+## 🎯 Daily Eco Activities
 
-| Today's Tasks | Sorting Game |
-|---------------|--------------|
-| ![Today's Tasks](<img width="540" height="984" alt="todays_tasks_Screen" src="https://github.com/user-attachments/assets/5a7027fe-c3b8-44e5-9fbb-7e9b46063dd5" />
-) | ![Sorting Game](<img width="540" height="980" alt="sorting_game_screen" src="https://github.com/user-attachments/assets/c425530b-f2cd-4b6e-8ac2-ac558ca272f0" />
-) |
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/5a7027fe-c3b8-44e5-9fbb-7e9b46063dd5" width="220" alt="Today's Tasks"/>
+  <img src="https://github.com/user-attachments/assets/c425530b-f2cd-4b6e-8ac2-ac558ca272f0" width="220" alt="Sorting Game"/>
+</p>
 
----
-
-## 🤝 Community
-
-| Community Feed | Profile Page |
-|----------------|--------------|
-| ![Community Feed](<img width="540" height="981" alt="community_feed_Screen" src="https://github.com/user-attachments/assets/78bd54d9-4aee-49be-b9be-f7234f66f64f" />
-) | ![Profile Page](<img width="540" height="978" alt="profile_screen" src="https://github.com/user-attachments/assets/807c7024-9ffc-486c-a88f-bbb26aba9e9c" />
-) |
+<p align="center">
+<b>Today's Tasks</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<b>Waste Sorting Game</b>
+</p>
 
 ---
 
-## 📅 Events
+## 🤝 Community & Profile
 
-| Upcoming Events | Events Calendar |
-|-----------------|-----------------|
-| ![Upcoming Events](<img width="540" height="982" alt="upcoming_screen" src="https://github.com/user-attachments/assets/a267d3cb-fa1e-421d-8150-f3560677289d" />
-) | ![Events Calendar](<img width="540" height="981" alt="event_calendar_Screen" src="https://github.com/user-attachments/assets/13a16827-f832-46ee-8c30-2276623ebd21" />
-) |
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/78bd54d9-4aee-49be-b9be-f7234f66f64f" width="220" alt="Community Feed"/>
+  <img src="https://github.com/user-attachments/assets/807c7024-9ffc-486c-a88f-bbb26aba9e9c" width="220" alt="Profile"/>
+</p>
+
+<p align="center">
+<b>Community Feed</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<b>Profile Dashboard</b>
+</p>
 
 ---
 
+## 📅 Eco Events
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a267d3cb-fa1e-421d-8150-f3560677289d" width="220" alt="Upcoming Events"/>
+  <img src="https://github.com/user-attachments/assets/13a16827-f832-46ee-8c30-2276623ebd21" width="220" alt="Events Calendar"/>
+</p>
+
+<p align="center">
+<b>Upcoming Events</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<b>Events Calendar</b>
+</p>
+
+---
+
+### ✨ User Experience Highlights
+
+- 🌱 Clean and nature-inspired interface
+- 🎮 Gamified learning with eco challenges and rewards
+- 📚 Interactive lessons and quizzes
+- 👩‍🏫 Dedicated dashboards for Students, Teachers, and Admins
+- 🏆 Progress tracking, achievements, and leaderboards
+- 🌍 Community engagement through environmental activities
 #  Impact
 
 EcoApp creates positive educational and environmental impact by:
