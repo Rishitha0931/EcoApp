@@ -1,4 +1,5 @@
 # EcoApp
+
 > Making Environmental Learning Fun and Impactful Through Technology
 
 <p align="center">
