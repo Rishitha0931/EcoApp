@@ -1,10 +1,21 @@
 #  EcoApp
 
+
 > **Making Environmental Learning Fun and Impactful Through Technology**
+
+<p align="center">
+  <img width="1536" height="1024" alt="main_image" src="https://github.com/user-attachments/assets/59fdc39d-f848-4e2d-b3de-55f6634eca72" />
+</p>
 
 EcoApp is a **Flutter + Firebase** powered gamified environmental learning platform that transforms sustainability education into an engaging digital experience through eco-challenges, quizzes, rewards, and role-based learning.
 
 Built as a **Hackathon Project**, EcoApp encourages students to develop eco-friendly habits while enabling teachers and administrators to monitor participation and community impact through a centralized platform.
+
+<p align="center">
+
+🌱 **Learn** • 🎮 **Play** • 🏆 **Earn Rewards** • 🌍 **Protect the Planet**
+
+</p>
 
 ---
 
