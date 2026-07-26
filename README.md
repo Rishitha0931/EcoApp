@@ -1,6 +1,14 @@
 #  EcoApp
 
+<p align="center">
 
+![Flutter](https://img.shields.io/badge/Flutter-3.x-blue?logo=flutter)
+![Firebase](https://img.shields.io/badge/Firebase-Backend-orange?logo=firebase)
+![Dart](https://img.shields.io/badge/Dart-Programming-blue?logo=dart)
+![Platform](https://img.shields.io/badge/Platform-Web%20%7C%20Android-green)
+![Status](https://img.shields.io/badge/Status-Active-success)
+
+</p>
 > **Making Environmental Learning Fun and Impactful Through Technology**
 
 <p align="center">
