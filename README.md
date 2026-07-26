@@ -265,6 +265,13 @@ EcoApp offers a clean, intuitive, and engaging user experience designed for stud
 - 👩‍🏫 Dedicated dashboards for Students, Teachers, and Admins
 - 🏆 Progress tracking, achievements, and leaderboards
 - 🌍 Community engagement through environmental activities
+  --
+  
+#  Impact
+
+EcoApp creates p
+
+us etese  urls and do
 #  Impact
 
 EcoApp creates positive educational and environmental impact by:
